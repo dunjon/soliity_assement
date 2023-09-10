@@ -1,4 +1,4 @@
-# soliity_assement
+# solidity_assement
 This repo contains the code for the solidity beginner assignment from the metacrafters, where we have to use mint, burn and other functions and variables to create a smart contract.
 
 # Discription
